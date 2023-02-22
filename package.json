@@ -1,0 +1,19 @@
+{
+	"name": "@soom/root",
+	"private": true,
+	"scripts": {
+		"preinstall": "pnpm dlx only-allow pnpm",
+		"dev:app": "pnpm --filter @soom/app dev"
+	},
+	"workspaces": [
+		"packages/*"
+	],
+	"engines": {
+		"node": ">=16.14.2",
+		"pnpm": ">=7.9.0"
+	},
+	"packageManager": "pnpm@7.9.0",
+	"devDependencies": {
+		"pnpm": "^7.9.0"
+	}
+}
