@@ -202,7 +202,7 @@ pnpm dev
 
 ## Result
 
-### 👉 [CodeSandBox Sample Link](https://codesandbox.io/p/github/soom-kang/Building-a-Monorepo-with-pnpm-Workspace/main?workspaceId=99d1ebdb-6029-4fa4-945c-b71e7dfc3e5d&file=%2Fpackage.json&selection=%5B%7B%22endColumn%22%3A1%2C%22endLineNumber%22%3A20%2C%22startColumn%22%3A1%2C%22startLineNumber%22%3A20%7D%5D&workspace=%257B%2522activeFileId%2522%253A%2522cleff0ilq0003g1ef0zx67wck%2522%252C%2522openFiles%2522%253A%255B%255D%252C%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522gitSidebarPanel%2522%253A%2522COMMIT%2522%252C%2522spaces%2522%253A%257B%2522cleff0ptj000g3b6lpe1ai8rk%2522%253A%257B%2522key%2522%253A%2522cleff0ptj000g3b6lpe1ai8rk%2522%252C%2522name%2522%253A%2522Default%2522%252C%2522devtools%2522%253A%255B%257B%2522type%2522%253A%2522PREVIEW%2522%252C%2522taskId%2522%253A%2522dev%253Aapp%2522%252C%2522port%2522%253A5173%252C%2522key%2522%253A%2522cleff2eqo00gq3b6lvlymbw5j%2522%252C%2522isMinimized%2522%253Afalse%257D%252C%257B%2522type%2522%253A%2522TASK_LOG%2522%252C%2522taskId%2522%253A%2522dev%253Aapp%2522%252C%2522key%2522%253A%2522cleff2c6m00ac3b6l866pmmyc%2522%252C%2522isMinimized%2522%253Afalse%257D%252C%257B%2522key%2522%253A%2522cleff0ptj000h3b6lsp09mqhd%2522%252C%2522type%2522%253A%2522PROJECT_SETUP%2522%252C%2522isMinimized%2522%253Afalse%257D%255D%257D%257D%252C%2522currentSpace%2522%253A%2522cleff0ptj000g3b6lpe1ai8rk%2522%252C%2522spacesOrder%2522%253A%255B%2522cleff0ptj000g3b6lpe1ai8rk%2522%255D%252C%2522hideCodeEditor%2522%253Afalse%257D)
+### 👉 [CodeSandBox Sample Link](https://codesandbox.io/p/github/soom-kang/Building-a-Monorepo-with-pnpm-Workspace/main?file=%2FREADME.md)
 
 ![Result](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ltnyvmbxcirirh58ia52.png)
 
